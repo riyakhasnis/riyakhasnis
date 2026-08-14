@@ -6,4 +6,4 @@ I'm a Data Science & Statistics student at UC Berkeley (Class of 2028), explorin
 - 🛠️ **Frameworks/Tools:** Next.js, React, Node.js, PyTorch, YOLOv8, Pandas, PostgreSQL
 - 🧭 Currently on the hunt for SWE and Data Analyst internships/roles!
 
-💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/riya-khasnis-in)! · 📫 Email me [here](mailto:riya_khasnis@berkeley.edu)!
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/riya-khasnis-in)! · 📫 Email me here [here](mailto:riya_khasnis@berkeley.edu)!
